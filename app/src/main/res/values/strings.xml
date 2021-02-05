@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreeterApp</string>
+    <string name="type_here">type here</string>
+    <string name="greet">GREET</string>
+</resources>
